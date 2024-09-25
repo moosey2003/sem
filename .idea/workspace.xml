@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b74b7a8-f57b-458d-aa4f-e95f8ee47096" name="Changes" comment="test" />
+    <list default="true" id="6b74b7a8-f57b-458d-aa4f-e95f8ee47096" name="Changes" comment="xml commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,9 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -117,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727151159104</updated>
       <workItem from="1727151160122" duration="16510000" />
-      <workItem from="1727244099851" duration="5372000" />
+      <workItem from="1727244099851" duration="6719000" />
     </task>
     <task id="LOCAL-00001" summary="First time commit">
       <option name="closed" value="true" />
@@ -207,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727284775664</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="xml commit">
+      <option name="closed" value="true" />
+      <created>1727285369562</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727285369562</updated>
+    </task>
+    <task id="LOCAL-00013" summary="xml commit">
+      <option name="closed" value="true" />
+      <created>1727285460020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727285460020</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +253,8 @@
     <MESSAGE value="docker test" />
     <MESSAGE value="moosey testing" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="xml commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
