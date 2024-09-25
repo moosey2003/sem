@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b74b7a8-f57b-458d-aa4f-e95f8ee47096" name="Changes" comment="Second time commit Java App">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6b74b7a8-f57b-458d-aa4f-e95f8ee47096" name="Changes" comment="Third time commit Java App">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="moosey2003 &lt;winminthaw20018@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -105,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727151159104</updated>
-      <workItem from="1727151160122" duration="15353000" />
+      <workItem from="1727151160122" duration="16360000" />
     </task>
     <task id="LOCAL-00001" summary="First time commit">
       <option name="closed" value="true" />
@@ -123,7 +126,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727153513572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second time commit Java App">
+      <option name="closed" value="true" />
+      <created>1727242931024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727242931024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third time commit Java App">
+      <option name="closed" value="true" />
+      <created>1727243531908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727243531908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Third time commit Java App">
+      <option name="closed" value="true" />
+      <created>1727243541694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727243541694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First time commit" />
     <MESSAGE value="Second time commit Java App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second time commit Java App" />
+    <MESSAGE value="Third time commit Java App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third time commit Java App" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
