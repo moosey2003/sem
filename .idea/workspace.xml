@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b74b7a8-f57b-458d-aa4f-e95f8ee47096" name="Changes" comment="xml commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
   &quot;isMigrated&quot;: true
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -66,6 +67,7 @@
     "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
     "Docker.Dockerfile.executor": "Run",
+    "Maven.seMethods [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -78,7 +80,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Docker",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727151159104</updated>
       <workItem from="1727151160122" duration="16510000" />
-      <workItem from="1727244099851" duration="6719000" />
+      <workItem from="1727244099851" duration="11381000" />
     </task>
     <task id="LOCAL-00001" summary="First time commit">
       <option name="closed" value="true" />
